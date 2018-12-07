@@ -1,0 +1,21 @@
+{
+  "name": "status-seed-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coinstring": "^2.0.0",
+    "crypto": "^1.0.1",
+    "ethereumjs-util": "^6.0.0",
+    "password-prompt": "^1.0.7",
+    "safe-buffer": "^5.1.1",
+    "secp256k1": "^3.0.1",
+    "status-js-api": "^1.0.9"
+  }
+}
